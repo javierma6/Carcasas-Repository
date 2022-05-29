@@ -1,0 +1,227 @@
+
+{
+    "data": [{
+            "_id": 1,
+            "name": "Viaje a marte según los cientificos",
+            "album": "El Podcast Salvaje",
+            "cover": "https://pbs.twimg.com/profile_images/920475814323515392/joVkPL1i_400x400.jpg",
+            "duracion":"8min",
+            "artist": {
+                "name": "Jorge Carrillo",
+                "nickname": "Jordi",
+                "nationality": "ES"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 2,
+            "name":"Episodio 4 ft David Suarez",
+            "album": "Actualidad",
+            "cover": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/21881188/21881188-1648727378351-464f21e93e2eb.jpg",
+            "duracion":"4min",
+            "artist": {
+                "name": "CLUB 113",
+                "nickname": "Club 113",
+                "nationality": "ES"
+            },
+            
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 3,
+            "name": "¿Se volverá a recuperar bitcoin?",
+            "album": "Criptomonedas Locas",
+            "cover": "https://assets.iproup.com/cdn-cgi/image/w=880,f=webp/https://assets.iproup.com/assets/jpg/2021/02/16511.jpg",
+            "duracion":"3min",
+            "artist": {
+                "name": "Alejandro Salomon",
+                "nickname": "Salomon",
+                "nationality": "MX"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 4,
+            "name": "Charlando con un ex-militar",
+            "album": "Entrevistas",
+            "cover": "https://i.ytimg.com/vi/xySZKCTsZXI/maxresdefault.jpg",
+            "duracion":"5min",
+            "artist": {
+                "name": "Doble G",
+                "nickname": "Doble G",
+                "nationality": "MX"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        }
+        ,
+        {
+            "_id": 5,
+            "name":"Episodio 5 - Hackers",
+            "album": "Ciberataques",
+            "cover": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/21881188/21881188-1649233391921-3274f1f00b2e7.jpg",
+            "duracion":"10min",
+            "artist": {
+                "name": "CLUB 113",
+                "nickname": "Doble G",
+                "nationality": "MX"
+            },
+            
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 1,
+            "name": "Viaje a marte según los cientificos",
+            "album": "El Podcast Salvaje",
+            "cover": "https://pbs.twimg.com/profile_images/920475814323515392/joVkPL1i_400x400.jpg",
+            "duracion":"8min",
+            "artist": {
+                "name": "Jorge Carrillo",
+                "nickname": "Jordi",
+                "nationality": "ES"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 2,
+            "name":"Episodio 4 ft David Suarez",
+            "album": "Actualidad",
+            "cover": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/21881188/21881188-1648727378351-464f21e93e2eb.jpg",
+            "duracion":"4min",
+            "artist": {
+                "name": "CLUB 113",
+                "nickname": "Club 113",
+                "nationality": "ES"
+            },
+            
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 3,
+            "name": "Hablemos de BTC",
+            "album": "Criptomonedas Locas",
+            "cover": "_https://assets.iproup.com/cdn-cgi/image/w=880,f=webp/https://assets.iproup.com/assets/jpg/2021/02/16511.jpg",
+            "duracion":"3min",
+            "artist": {
+                "name": "Alejandro Salomon",
+                "nickname": "Salomon",
+                "nationality": "MX"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 4,
+            "name": "Charlando con un ex-militar",
+            "album": "Entrevistas",
+            "cover": "https://i.ytimg.com/vi/xySZKCTsZXI/maxresdefault.jpg",
+            "duracion":"5min",
+            "artist": {
+                "name": "Doble G",
+                "nickname": "Doble G",
+                "nationality": "MX"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        }
+        ,
+        {
+            "_id": 5,
+            "name":"Episodio 5 - Hackers",
+            "album": "Ciberataques",
+            "cover": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/21881188/21881188-1649233391921-3274f1f00b2e7.jpg",
+            "duracion":"10min",
+            "artist": {
+                "name": "CLUB 113",
+                "nickname": "Doble G",
+                "nationality": "MX"
+            },
+            
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 1,
+            "name": "Viaje a marte según los cientificos",
+            "album": "El Podcast Salvaje",
+            "cover": "https://pbs.twimg.com/profile_images/920475814323515392/joVkPL1i_400x400.jpg",
+            "duracion":"8min",
+            "artist": {
+                "name": "Jorge Carrillo",
+                "nickname": "Jordi",
+                "nationality": "ES"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 2,
+            "name":"Episodio 4 ft David Suarez",
+            "album": "Actualidad",
+            "cover": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/21881188/21881188-1648727378351-464f21e93e2eb.jpg",
+            "duracion":"4min",
+            "artist": {
+                "name": "CLUB 113",
+                "nickname": "Club 113",
+                "nationality": "ES"
+            },
+            
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 3,
+            "name": "Hablemos de BTC",
+            "album": "Criptomonedas Locas",
+            "cover": "https://assets.iproup.com/cdn-cgi/image/w=880,f=webp/https://assets.iproup.com/assets/jpg/2021/02/16511.jpg",
+            "duracion":"3min",
+            "artist": {
+                "name": "Alejandro Salomon",
+                "nickname": "Salomon",
+                "nationality": "MX"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 4,
+            "name": "Charlando con un ex-militar",
+            "album": "Entrevistas",
+            "cover": "https://i.ytimg.com/vi/xySZKCTsZXI/maxresdefault.jpg",
+            "duracion":"5min",
+            "artist": {
+                "name": "Doble G",
+                "nickname": "Doble G",
+                "nationality": "MX"
+            },
+          
+            "url": "http://localhost:3000/track.mp3"
+        }
+        ,
+        {
+            "_id": 5,
+            "name":"Episodio 5 - Hackers",
+            "album": "Ciberataques",
+            "cover": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/21881188/21881188-1649233391921-3274f1f00b2e7.jpg",
+            "duracion":"10min",
+            "artist": {
+                "name": "CLUB 113",
+                "nickname": "Doble G",
+                "nationality": "MX"
+            },
+            
+          
+            "url": "http://localhost:3000/track.mp3"
+        }
+     
+    ]
+    
+    
+}
+

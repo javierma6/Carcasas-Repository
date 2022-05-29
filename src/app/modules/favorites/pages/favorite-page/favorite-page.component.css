@@ -1,0 +1,8 @@
+.favorites-page{
+    height: 100%;
+    /* Margen de abajo para que no tape el media-player*/
+    margin-bottom: 100px;
+    background: linear-gradient(to bottom, #1b0d28 5%, #000000);
+
+ 
+}
